@@ -1,6 +1,5 @@
 ﻿#author: Taylor Hawkins
-#scope: The scope of this powershell script file is for automating SQL Server installations with physical media. Additionally, it is valued for recycling of functions in the future.
-
+#scope: The scope of this powershell script file is for automating SQL Server installations with physical media. 
 #Functions
 #This function creates missing directories that were needed by MS SQL Server 2012 during automated install.
 function createDirectory
